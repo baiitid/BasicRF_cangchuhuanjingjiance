@@ -1,0 +1,1544 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3459319859</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_i2c.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\basicrf\basic_rf.r51</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_adc.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_led.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_pwm.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_clock.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_board.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_pwm.r51</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdlib.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\basicrf\basic_rf.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_timer_32k.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_uart1.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_clock.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\sht3x.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_uart.pbi</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_mcu.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sensor.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdbool.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_uart1.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\get_adc.r51</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_i2c.h</file>
+      <file>$PROJ_DIR$\..\sensor_drv\sht.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_i2c.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl-pli-blxd-1e16x01.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\UART_SEND_RECV.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\TIMER.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_uart.r51</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_adc.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\UART_SEND_RECV.pbi</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_rf_security.h</file>
+      <file>$PROJ_DIR$\..\sensor_drv\get_swsensor.h</file>
+      <file>$TOOLKIT_DIR$\config\devices\Texas Instruments\lnk51ew_cc2530F256_banked.xcl</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_uart.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_clock.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\mylib\UART_PRINT.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sht.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_pwm.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_rf_util.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_sleep.r51</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_rf.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdarg.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_defs.h</file>
+      <file>$PROJ_DIR$\sensor.c</file>
+      <file>$TOOLKIT_DIR$\inc\clib\string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_digio.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_mcu.pbi</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\utils\util.h</file>
+      <file>$PROJ_DIR$\..\sensor_drv\get_adc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sht1x.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_adc.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_int.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_digio.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\ioCC2530.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\UART_PRINT.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_sleep.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\clib\math.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_int.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_adc.r51</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_led.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\mylib\UART_SEND_RECV.c</file>
+      <file>$PROJ_DIR$\..\sensor_drv\sht1x.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_rf.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\sensor.r51</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_int.c</file>
+      <file>$PROJ_DIR$\..\sensor_drv\sht3x.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_board.r51</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_sleep.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_uart.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\utils\util.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_rf_security.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_rf_util.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_mcu.c</file>
+      <file>$PROJ_DIR$\..\sensor_drv\get_adc.c</file>
+      <file>$PROJ_DIR$\..\sensor_drv\get_swsensor.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_uart1.c</file>
+      <file>$PROJ_DIR$\..\sensor_drv\sht.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_timer_32k.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\sht3x.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\sht.pbi</file>
+      <file>$PROJ_DIR$\..\sensor_drv\sht3x.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_rf.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_digio.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\TIMER.r51</file>
+      <file>$PROJ_DIR$\..\sensor_drv\sht1x.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_led.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\demo.pbd</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\mylib\UART_PRINT.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\mylib\TIMER.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_digio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_rf.r51</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_sleep.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_rf_util.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_timer_32k.r51</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\mylib\TIMER.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_board.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sht1x.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_timer_32k.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_rf_util.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\util.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_led.r51</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_cc8051.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\demo.d51</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_uart1.pbi</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_int.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_mcu.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\get_adc.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_rf_security.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\get_swsensor.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\get_swsensor.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\UART_PRINT.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_board.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_rf_security.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_i2c.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\hal_clock.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\util.pbi</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 103</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\board\hal_i2c.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 114</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 54 20 43 102</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 20 43 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\board\hal_adc.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 59</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 28 43 54 96 17 15 57 29</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 43 54 96 17 15 57 29</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\board\hal_led.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 101</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 102 15 96 60</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 102 15 96 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\board\hal_pwm.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 7</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 102 15</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 102 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_clock.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 115</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\board\hal_board.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 112</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 102 15 90 105 96 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 102 15 90 105 96 34</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\sensor.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 102 105 15 96 60 28 17 41 9 34 95 49 21 36 48 8 29 45 26 42 57</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 102 105 15 96 60 28 17 41 9 34 95 49 21 36 48 8 29 45 26 42 57</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\mylib\UART_SEND_RECV.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 102 105 15 34 11</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 102 105 15 34 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_int.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 105</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 105</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\sensor_drv\sht3x.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 26 42 29 81 17 20 43 54 102</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26 42 29 81 17 20 43 54 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_sleep.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 92 54</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 92 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_uart.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 96 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 96 34</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\utils\util.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 100</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 116</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 48 41</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 48 41</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_rf_security.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 113</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 108</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 15 41 31 48 45 29</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 15 41 31 48 45 29</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_rf_util.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 99</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 15 93 41</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 15 93 41</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_mcu.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 106</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 35 15 96</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 35 15 96</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\sensor_drv\get_adc.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 107</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 54 43 49</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 43 49</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\sensor_drv\get_swsensor.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 110</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 109</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 54 43 32</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 43 32</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_uart1.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 104</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 96 11</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 96 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\sensor_drv\sht.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 26 42 29 21 43 54 102 62 81 17 20 36</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26 42 29 21 43 54 102 62 81 17 20 36</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_timer_32k.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 94</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 98</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 105 10</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 105 10</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_rf.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 91</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 15 105 48 41</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 15 105 48 41</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_digio.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 105 90</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 105 90</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\sensor_drv\sht1x.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 97</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 57 29 26 42 54 43 102 62</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 29 26 42 54 43 102 62</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\demo.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 25 111 30 107 109 51 112 115 53 22 58 86 47 38 63 108 39 56 98 14 104 16 80 50 13 116</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\mylib\UART_PRINT.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 55</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 111</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 34 96 36 26 42 29 45</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 34 96 36 26 42 29 45</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\mylib\TIMER.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 84</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43 54 60 95</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 54 60 95</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\demo.d51</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 33 1 84 55 24 19 110 59 67 12 46 114 52 101 106 7 91 113 99 40 94 27 18 64 37 97 79 100 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>temprh_sensor</name>
+    <outputs>
+      <file>$PROJ_DIR$\temprh_sensor.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_i2c.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\basicrf\basic_rf.r51</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_adc.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_led.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_pwm.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_clock.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_board.c</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdlib.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\basicrf\basic_rf.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_timer_32k.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_uart1.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_mcu.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdbool.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_i2c.h</file>
+      <file>$PROJ_DIR$\..\sensor_drv\sht.h</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl-pli-blxd-1e16x01.r51</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdio.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_adc.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_rf_security.h</file>
+      <file>$PROJ_DIR$\..\sensor_drv\get_swsensor.h</file>
+      <file>$TOOLKIT_DIR$\config\devices\Texas Instruments\lnk51ew_cc2530F256_banked.xcl</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_uart.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_clock.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\mylib\UART_PRINT.h</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_digio.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_clock.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\sht1x.pbi</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_rf.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdarg.h</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\sht.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_uart1.pbi</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_defs.h</file>
+      <file>$PROJ_DIR$\sensor.c</file>
+      <file>$TOOLKIT_DIR$\inc\clib\string.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\utils\util.h</file>
+      <file>$PROJ_DIR$\..\sensor_drv\get_adc.h</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_clock.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\ioCC2530.h</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\UART_SEND_RECV.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_sleep.r51</file>
+      <file>$TOOLKIT_DIR$\inc\clib\math.h</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_int.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_i2c.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_digio.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\get_adc.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\sht3x.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\temprh_sensor.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\sht.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\get_adc.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_adc.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_rf_security.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_led.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\sensor.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_timer_32k.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_uart.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\sht3x.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\get_swsensor.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_sleep.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_pwm.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\temprh_sensor.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_mcu.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\demo.pbd</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\UART_PRINT.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_int.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_adc.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_timer_32k.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_rf.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\util.pbi</file>
+      <file>$PROJ_DIR$\..\sensor_drv\sh10.h</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\sensor.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_board.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\sht1x.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_uart1.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_rf_util.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\UART_PRINT.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_rf.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_rf_util.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_board.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\get_swsensor.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_i2c.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_mcu.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_rf_security.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\TIMER.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_uart.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_pwm.pbi</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\hal_led.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\UART_SEND_RECV.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Exe\zigbee-sht3x.hex</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\TIMER.r51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Exe\demo.d51</file>
+      <file>$PROJ_DIR$\temprh_sensor\Obj\util.r51</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_led.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\mylib\UART_SEND_RECV.c</file>
+      <file>$PROJ_DIR$\..\sensor_drv\sht1x.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_int.c</file>
+      <file>$PROJ_DIR$\..\sensor_drv\sht3x.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_sleep.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_uart.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\utils\util.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_rf_security.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_rf_util.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_mcu.c</file>
+      <file>$PROJ_DIR$\..\sensor_drv\get_adc.c</file>
+      <file>$PROJ_DIR$\..\sensor_drv\get_swsensor.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_uart1.c</file>
+      <file>$PROJ_DIR$\..\sensor_drv\sht.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_timer_32k.c</file>
+      <file>$PROJ_DIR$\..\sensor_drv\sht3x.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_rf.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_digio.c</file>
+      <file>$PROJ_DIR$\..\sensor_drv\sht1x.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\mylib\UART_PRINT.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\mylib\TIMER.c</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_digio.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_sleep.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_rf_util.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\mylib\TIMER.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\board\hal_board.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_cc8051.h</file>
+      <file>$PROJ_DIR$\..\CC2530_lib\common\hal_int.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 91 89</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\temprh_sensor.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 120 121 12 119 93 18 13 29 9 23 118 37 70 25 36 8 19 35 17 30 42</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 120 121 12 119 93 18 13 29 9 23 118 37 70 25 36 8 19 35 17 30 42</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\board\hal_i2c.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 39 14 33 120</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39 14 33 120</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\board\hal_adc.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 18 33 39 119 13 12 42 19</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 33 39 119 13 12 42 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\board\hal_led.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 87</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 120 12 119 93</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 120 12 119 93</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\board\hal_pwm.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 120 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 120 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_clock.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 24</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\board\hal_board.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 72</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 120 12 115 121 119 23</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 120 12 115 121 119 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\sensor.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 120 121 12 119 93 18 13 29 9 23 118 37 15 25 36 8 19 35 17 30 42</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\temprh_sensor\Obj\demo.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 84 76 40 46 80 51 72 38 45 44 65 53 62 86 68 83 78 59 55 85 32 49 28 57 61 69</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\temprh_sensor\Exe\demo.d51</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 89</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 22 2 90 64 88 50 58 66 79 27 26 81 43 87 82 60 77 52 75 41 67 56 74 31 73 47 48 92 16</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\mylib\UART_SEND_RECV.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 88</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 120 121 12 23 11</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 120 121 12 23 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_int.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 121</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 121</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\sensor_drv\sht3x.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 17 30 19 109 13 14 33 39 120</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 30 19 109 13 14 33 39 120</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_sleep.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 116 39</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 116 39</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_uart.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 119 23</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 119 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\utils\util.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 92</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 36 29</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 36 29</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_rf_security.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 12 29 20 36 35 19</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 12 29 20 36 35 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_rf_util.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 75</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 12 117 29</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 12 117 29</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_mcu.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 82</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 24 12 119</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 24 12 119</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\sensor_drv\get_adc.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 39 33 37</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39 33 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\sensor_drv\get_swsensor.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 58</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 39 33 21</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39 33 21</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_uart1.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 74</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 119 11</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 119 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\sensor_drv\sht.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 17 30 19 70 33 39 120 95 109 13 14 25</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 30 19 70 33 39 120 95 109 13 14 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_timer_32k.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 121 10</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 121 10</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_rf.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 77</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 12 121 36 29</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 12 121 36 29</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\common\hal_digio.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 121 115</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 121 115</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\sensor_drv\sht1x.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 73</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 42 19 17 30 39 33 120 95</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 19 17 30 39 33 120 95</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\mylib\UART_PRINT.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 23 119 25 17 30 19 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 23 119 25 17 30 19 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\CC2530_lib\mylib\TIMER.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 90</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 84</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33 39 93 118 70 120</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 39 93 118 70 120</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+</project>
+
+
